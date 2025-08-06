@@ -16,7 +16,7 @@
   "dependencies": {
     "@xdcreative/doggo": "0.3.4",
     "joi": "17.4.0",
-    "tmp": "0.2.1"
+    "tmp": "0.2.4"
   },
   "devDependencies": {
     "@hapi/code": "^8.0.3",
