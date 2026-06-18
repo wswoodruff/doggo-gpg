@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@xdcreative/doggo": "0.3.4",
-    "joi": "17.4.0",
+    "joi": "18.2.1",
     "tmp": "0.2.1"
   },
   "devDependencies": {
